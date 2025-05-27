@@ -1,0 +1,9 @@
+{
+  "rewrites":  [
+    {"source": "/", "destination": "/"},
+    {"source": "/FormacaoAcademica", "destination": "/"},
+    {"source": "/MeusProjetos", "destination": "/"},
+    {"source": "/Certificacoes", "destination": "/"},
+    {"source": "/ExperienciaProfissional", "destination": "/"}
+  ]
+}
