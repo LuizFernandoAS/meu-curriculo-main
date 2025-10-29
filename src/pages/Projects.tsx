@@ -25,12 +25,6 @@ const bd = [
     project: "Machine Learning",
     tools: "Pandas, Scikit-learn e LabelEncoder, Train_test_split e Accuracy_score",
     viewProject: "https://colab.research.google.com/drive/1o6Y3nIbA7jS33QTv-UBbpjt5wEUNqgGW?usp=drive_link"
-  },
-  { id: 5,
-    nameProject: "K-means",
-    project: "Machine Learning",   
-    tools: "Numpy,Scikit-learnandardScaler, Plotly",
-    viewProject: "https://colab.research.google.com/drive/1gHCTfkmA-y2ELx4HMP76bG3N53niMvfl?usp=drive_link" 
   }
 ]
 
