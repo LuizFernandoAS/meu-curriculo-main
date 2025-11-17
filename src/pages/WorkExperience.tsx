@@ -2,9 +2,9 @@ import { CardExperience } from "../components/CardExperience";
 
 const tableExperience = [
   { id: 1,
-    profession: "Analista de Négocios Pleno",
+    profession: "Analista de Dados Pleno",
     enterprise:"Neobpo - Santander",
-    place: "República - Centro | São Paulo - SP ",
+    place: "República - Zona Central | São Paulo - SP ",
     time: "Dezembro/2023 - até o momento",
     workActivities:"Atuei com processamento de ETL, utilizando: Pandas, PySpark, Power BI, SAS e Azure Databricks. Além disso, desenvolvi dashboards para apoiar a tomada de decisões em estrátegias de contato com os clientes.",
     urlLetter:"https://www.linkedin.com/in/luizfernando-as/details/recommendations/"
