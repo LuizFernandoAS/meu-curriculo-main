@@ -15,7 +15,7 @@ export function App() {
           </a>
           <div className="flex flex-col items-center justify-center ">
             <strong className="text-xl">LuizFernando<span className="text-teal-600">AS</span></strong>
-            <span className="text-zinc-600 text-sm">Cientista de Dados</span>
+            <span className="text-zinc-600 text-sm">Analista de Dados</span>
           </div>
         </header>
           <aside className=" bg-zinc-800"> 
